@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\Directory\shell\OpenCommandWindowHereAsAdministrator]
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\OpenCommandWindowHereAsAdministrator]
+[-HKEY_CLASSES_ROOT\LibraryFolder\Background\shell\OpenCommandWindowHereAsAdministrator]
+[-HKEY_CLASSES_ROOT\*\shell\OpenWithCommandWindowAsAdministrator]
+[-HKEY_CLASSES_ROOT\Directory\shell\OpenCommandWindowHere]
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\OpenCommandWindowHere]
+[-HKEY_CLASSES_ROOT\LibraryFolder\Background\shell\OpenCommandWindowHere]
+[-HKEY_CLASSES_ROOT\*\shell\OpenWithCommandWindow]
